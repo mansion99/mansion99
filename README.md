@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mansi Singh
-- 👀 I’m interested in open source 
+ 👋 Hi, I’m Mansi Singh
+- 👀 I’m interested in solving world problems using Computer Science
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on Machine Learning and python based projects
 - 📫 How to reach me mansi371.singh@gmail.com
