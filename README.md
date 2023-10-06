@@ -1,7 +1,7 @@
  👋 Hi, I’m Mansi Singh
 - 👀 I’m interested in solving world problems using Computer Science
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on Machine Learning and python based projects
+- 🌱 I’m currently studing at Columbia University 
+- 💞️ I’m looking to collaborate on Machine Learning and NLP based projects
 - 📫 How to reach me mansi371.singh@gmail.com
 
 <!---
